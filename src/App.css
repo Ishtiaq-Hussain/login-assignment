@@ -1,0 +1,23 @@
+#logimg{
+   
+   background-image: url("images/login.png");
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center center;
+   height: 80vh;
+}
+
+.form{
+    height: 80vh !important;
+}
+
+#signupimg{
+    background-image: url("images/signup.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 80vh;
+}
+label,button{
+    width:100%;
+}
